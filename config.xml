@@ -5,14 +5,14 @@
  id= "com.phonegap.example1"
  version= "1.0.0">
  
- <name>app1 DATOSALUMNOS </name>
+ <name>app1 DATOS JOSELYN </name>
  
  <description>
    Aplicacion que muestra los Datos del alumno
     </description>
    
   <author href= "https://build.phonegap.com" email="yoselinm1093@gmail.com">
-    Datos del autor
+    JOSELINE JUAREZ
 	</author>
 	
 	<!--Personaliza la aplicacion y plataforma-->
